@@ -1,6 +1,12 @@
 import React, { Component } from "react";
 
 export default class Login extends Component {
+
+   
+    LoginTOPage = () =>{
+        this.props.history.push("/mainpage");
+    }
+
     render() {
         return (
             <form className="auth-inner" style={{marginTop: "8%"}}>
@@ -23,7 +29,7 @@ export default class Login extends Component {
                     </div>
                 </div>
 
-                <button type="submit" className="btn btn-primary btn-block">Submit</button>
+                <button type="submit" className="btn btn-primary btn-block" onClick={this.LoginTOPage}>Submit</button>
                 <p className="forgot-password text-right">
                     Forgot <a href="#">password?</a>
                 </p>

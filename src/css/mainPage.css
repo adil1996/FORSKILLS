@@ -1,0 +1,23 @@
+.mainPage {
+    text-align: center;
+  }
+  
+.mainPage-logo {
+    height: 40vmin;
+  }
+  
+.mainPage-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+.mainPage-link {
+    color: #09d3ac;
+  }
+  
