@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/FORSKILLS/static/css/main.6999cb04.chunk.css",
-    "main.js": "/FORSKILLS/static/js/main.990df938.chunk.js",
-    "main.js.map": "/FORSKILLS/static/js/main.990df938.chunk.js.map",
-    "runtime-main.js": "/FORSKILLS/static/js/runtime-main.41a90188.js",
-    "runtime-main.js.map": "/FORSKILLS/static/js/runtime-main.41a90188.js.map",
-    "static/css/2.0624914a.chunk.css": "/FORSKILLS/static/css/2.0624914a.chunk.css",
-    "static/js/2.48daa646.chunk.js": "/FORSKILLS/static/js/2.48daa646.chunk.js",
-    "static/js/2.48daa646.chunk.js.map": "/FORSKILLS/static/js/2.48daa646.chunk.js.map",
+    "main.css": "/FORSKILLS/static/css/main.7ac36d77.chunk.css",
+    "main.js": "/FORSKILLS/static/js/main.a765d26e.chunk.js",
+    "main.js.map": "/FORSKILLS/static/js/main.a765d26e.chunk.js.map",
+    "runtime-main.js": "/FORSKILLS/static/js/runtime-main.fd9e2e54.js",
+    "runtime-main.js.map": "/FORSKILLS/static/js/runtime-main.fd9e2e54.js.map",
+    "static/css/2.4b6ec966.chunk.css": "/FORSKILLS/static/css/2.4b6ec966.chunk.css",
+    "static/js/2.d6a35c85.chunk.js": "/FORSKILLS/static/js/2.d6a35c85.chunk.js",
+    "static/js/2.d6a35c85.chunk.js.map": "/FORSKILLS/static/js/2.d6a35c85.chunk.js.map",
     "index.html": "/FORSKILLS/index.html",
-    "precache-manifest.f10d33635f1c32fa9c8b0041bb4f7afe.js": "/FORSKILLS/precache-manifest.f10d33635f1c32fa9c8b0041bb4f7afe.js",
-    "service-worker.js": "/FORSKILLS/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/FORSKILLS/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.6999cb04.chunk.css.map": "/FORSKILLS/static/css/main.6999cb04.chunk.css.map",
-    "static/media/crea.jpg": "/FORSKILLS/static/media/crea.5e8d9f61.jpg",
-    "static/media/ed.jpg": "/FORSKILLS/static/media/ed.d2e9e903.jpg"
-  }
+    "static/css/2.4b6ec966.chunk.css.map": "/FORSKILLS/static/css/2.4b6ec966.chunk.css.map",
+    "static/css/main.7ac36d77.chunk.css.map": "/FORSKILLS/static/css/main.7ac36d77.chunk.css.map",
+    "static/js/2.d6a35c85.chunk.js.LICENSE.txt": "/FORSKILLS/static/js/2.d6a35c85.chunk.js.LICENSE.txt",
+    "static/media/crea.90b08e9a.jpg": "/FORSKILLS/static/media/crea.90b08e9a.jpg",
+    "static/media/ed.1a067a23.jpg": "/FORSKILLS/static/media/ed.1a067a23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd9e2e54.js",
+    "static/css/2.4b6ec966.chunk.css",
+    "static/js/2.d6a35c85.chunk.js",
+    "static/css/main.7ac36d77.chunk.css",
+    "static/js/main.a765d26e.chunk.js"
+  ]
 }
